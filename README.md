@@ -7,7 +7,7 @@ This Tampermonkey script adds a "Save Chat" button under "Logout" in the bottom 
 2. See [here](https://www.tampermonkey.net/faq.php?locale=en#Q102) for what to do next.
 
 ## What about a manual install?
-1. Click [here](https://raw.githubusercontent.com/avosirenfal/chatgpt-export/master/script.js) for the latest copy of the script.
+1. Click [here](https://github.com/avosirenfal/chatgpt-export/raw/main/chatgpt-export.user.js) for the latest copy of the script.
 2. Copy the script into Tampermonkey's new script page, and hit 'save'.
 
 
